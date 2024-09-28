@@ -1,0 +1,1 @@
+# tauri-inventory-manager-backend
